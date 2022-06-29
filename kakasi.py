@@ -22,13 +22,13 @@ print(".....KAKASSSII X AAYUSSHHH.......")
 print("......PUTTII WALI MAIYAA.........")
 
 
-a = input("Enter Size of your lado:  ")
-b = input("Enter Size of the condom you are using:  ")
+a = input("TRRROOO LADOO KO INNCHH HALLL :  ")
+b = input("KUNN CONDDOMM HOO CONDDOMM KO KATI SIZE HO HALL:  ")
 a = int(a)
 b = int(b)
 puti = (a*b)/2
-print("your puti size is:  ", puti)
+print("TEROO  PUTII KO SIZEE ISS:  ", puti)
 
 
 
-# ULULULU
+# print("ULULULU Gulalaa khau")
